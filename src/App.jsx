@@ -1,4 +1,5 @@
-import Button from "./components/button"
+import Button from "./components/button";
+import Layout from "./components/layout";
 function App() {
 
   return (
@@ -9,6 +10,7 @@ function App() {
           <Button name='Issa'/>
           <Button name='Pedro'/>
           <Button name='Ana'/>
+          <Layout></Layout>
         </h1>
       </div>
     </>
