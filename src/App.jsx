@@ -8,6 +8,10 @@ function App() {
       <div class="bg-primary min-h-screen">
         <Navbar></Navbar>
         <Layout>
+          <p>fsadfasdfasdfsdsdfsaaaaaaaaaaaaaaaaaa</p>
+          <p></p>
+          <p>sdfasdfasdfasdfasdfsadfasdfasdfsadfasdfsadfsadfsafdsadf</p>
+          <p>sdfasdfsdfklsdljfoasidejfoasjdnfñlaksdfhjiloauwenfasdfn</p>
         </Layout>
       </div>
     </>
