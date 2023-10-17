@@ -6,7 +6,9 @@ function App() {
       <div class="bg-accent min-h-screen">
         <h1 className="text-3xl font-bold underline">
           Hello world!
-          <Button></Button>
+          <Button name='Issa'/>
+          <Button name='Pedro'/>
+          <Button name='Ana'/>
         </h1>
       </div>
     </>
