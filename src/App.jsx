@@ -1,20 +1,17 @@
 import Button from "./components/button";
 import Layout from "./components/layout";
-function App() {
+import Navbar from "./components/navbar";
 
+function App() {
   return (
     <>
-      <div class="bg-accent min-h-screen">
-        <h1 className="text-3xl font-bold underline">
-          Hello world!
-          <Button name='Issa'/>
-          <Button name='Pedro'/>
-          <Button name='Ana'/>
-          <Layout></Layout>
-        </h1>
+      <div class="bg-primary min-h-screen">
+        <Navbar></Navbar>
+        <Layout>
+        </Layout>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
